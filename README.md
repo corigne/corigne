@@ -1,10 +1,10 @@
-## Nathan Jodoin
-### Bio
+# Nathan Jodoin
+## Bio
 - 👀 I'm currently a 3rd year Computer Science Major, Japanese Langue Minor student.  
-- 🌱 I’m currently learning data structures and fundamentals of computing systems.  
-- 💞️ My current language of choice is C++, but I have knowledge in C and Java as well. I am always looking to expand my horizons.  
+- 🌱 ... learning data structures and fundamentals of computing systems.  
+- 💞️ Language of choice is C++, and I have knowledge in C and Java as well. I am always looking to expand my horizons.  
 
-### Contact  
+## Contact  
 If you would like me to contribute to your project, please forward inquiries to ![nathanjodoin@gmail.com](mailto:nathanjodoin@gmail.com) with details.  Thanks!  
 
 <!---
