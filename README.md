@@ -1,4 +1,4 @@
-# Nathan J.
+# Nathan
 ## Bio
 - 👀 I'm currently a 3rd year Computer Science Major, Japanese Langue Minor student.  
 - 🌱 ... learning data structures and fundamentals of computing systems.  
