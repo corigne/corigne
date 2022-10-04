@@ -5,7 +5,7 @@
 - 💞️ Language of choice is C++, and I have knowledge in C and Java as well. I am always looking to expand my horizons.  
 
 ## Contact  
-If you would like me to contribute to your project, please forward inquiries to [nathanjodoin@gmail.com](mailto:nathanjodoin@gmail.com) with details.  Thanks!  
+If you would like me to contribute to your project, please forward inquiries to my listed email with details.  Thanks!  
 
 <!---
 corigne/corigne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
