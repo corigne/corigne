@@ -1,4 +1,6 @@
 # Nathan
+[resume site (wip)](dev.misfits.rip)
+
 ## Bio
 - 👀 I'm currently a 3rd year Computer Science Major, Japanese Language Minor student.  
 - 🌱 ... growing an interest in Computer Science research in Data Privacy and Cyptography, and Software Engineering.
