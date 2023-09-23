@@ -1,5 +1,5 @@
 # Nathan
-[resume site (wip)](dev.misfits.rip)
+[resume site (wip)](https://dev.misfits.rip)
 
 ## Bio
 - 👀 I'm currently a 3rd year Computer Science Major, Japanese Language Minor student.  
