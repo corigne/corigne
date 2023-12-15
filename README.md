@@ -2,9 +2,9 @@
 [resume site (wip)](https://dev.misfits.rip)
 
 ## Bio
-- 👀 I'm currently a 3rd year Computer Science Major, Japanese Language Minor student.  
+- 👀 I'm currently a 4th year Computer Science Major & Japanese Language student.  
 - 🌱 ... growing an interest in Computer Science research in Data Privacy and Cyptography, and Software Engineering.
-- 💞️ Language of choice is C++, and I have knowledge in C, Java, Perl, and Bash as well. Currently actively learning Golang.
+- 💞️ Language of choice is currently rust, but I'm familiar with C#, C++ and C. I also have experience with Java, Perl, and Bash as well. Currently actively learning Golang and rust.
 
 ## Contact  
 If you would like me to contribute to your project, please forward inquiries to my listed email with details.  Thanks!  
