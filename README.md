@@ -1,6 +1,7 @@
 # Nathan
-[resume site (wip)](https://dev.misfits.rip)
-I swear I'll finish this eventually lol.
+[resume site](https://dev.misfits.rip)  
+
+I swear I'll finish this eventually lol, but for now it's a WIP.
 
 ## Bio
 Sailor turned software and information systems engineer.
