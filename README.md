@@ -10,6 +10,8 @@ Rust, Golang, C, C#, JS/TS, C++, Python, literally anything else, Java
 
 ## Current Projects
 - Unofficial maintainer of [polybar-spotify-module](github.com/corigne/polybar-spotify-module/)
+- [pngwin](github.com/corigne/pngwin) (shelved, pending major database/API refactor)
+- [harper](github.com/corigne/harper) (in the planning/design phase so you may not see code for this for a while)
 
 
 ## Contact  
