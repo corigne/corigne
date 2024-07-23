@@ -1,7 +1,6 @@
 # Nathan
-[resume site](https://dev.misfits.rip)  
-
-I swear I'll finish this eventually lol, but for now it's a WIP.
+Check out my resume site https://jodoin.io. Source [here](https://github.com/corigne/misfits/).
+You can contact me [here](mailto:nathan@jodoin.io).
 
 ## Bio
 Sailor turned software and information systems engineer.
@@ -10,7 +9,7 @@ I love learning Japanese and riding motorcycles in my free time.
 Rust, Golang, C, C#, JS/TS, C++, Python, literally anything else, Java 
 
 ## Current Projects
-- Unofficial maintainer of [polybar-spotify-module](https://github.com/corigne/polybar-spotify-module)
+- Maintainer of (forked) [polybar-spotify-module](https://github.com/corigne/polybar-spotify-module)
 - [pngwin](https://github.com/corigne/pngwin) (shelved, pending major database/API refactor)
 - [harper](https://github.com/corigne/harper) (in the planning/design phase so you may not see code for this for a while)
 
