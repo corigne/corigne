@@ -1,7 +1,7 @@
 # Nathan
 
 Check out my site https://jodoin.io , just me tinkering with SvelteKit. Source [here](https://github.com/corigne/misfits/), but it's a slapdash project and not really worth looking at.
-You can contact me at [via this mailto link](mailto:nathan@jodoin.io).
+You can contact me [via this mailto link](mailto:nathan@jodoin.io).
 
 ## Bio
 
