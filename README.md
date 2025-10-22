@@ -9,7 +9,8 @@ Navy Comms Vet turned computer scientist and occasional software engineer.
 
 Advocate for freedom of information, education and ethical use of technology.
 
-Currently learning Japanese, trying to get through my reading backlog,  
+Currently learning Japanese,  
+working through my reading backlog,  
 struggling with [imposter syndrome](https://programmerhumor.io/programming-memes/impostor-syndrome),  
 and trying to find motivation to start my next unfinished project. 
 
