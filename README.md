@@ -5,7 +5,7 @@ You can contact me [via this mailto link](mailto:nathan@jodoin.io).
 
 ## Bio
 
-Navy Comms Vet turned computer scientist and occasional software engineer.  
+Navy comms vet turned computer scientist and occasional software engineer.  
 
 Advocate for freedom of information, education and ethical use of technology.
 
