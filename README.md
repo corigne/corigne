@@ -15,9 +15,10 @@ struggling with [imposter syndrome](https://programmerhumor.io/programming-memes
 and trying to find motivation to start my next unfinished project. 
 
 ## Current Projects
-- (forked) [polybar-spotify-module](https://github.com/corigne/polybar-spotify-module). includes some fixes for issues based by polybar updates. I don't have time to keep up with this anymore. I was the only one using it, to my knowledge, and I don't use polybar much since switching to Wayland. if someone does want me to come back to it, let me know and I'll try to make time.
-
-- [pngwin](https://github.com/corigne/pngwin) (shelved, born from a uni project) I might come back to this if I have time now that I have more experience building APIs)
+- [tinygo-multibadge](https://github.com/corigne/tinygo-multibadge) - Working on a firmware for an xiao esp32 driven gophercon badge.
+- [Guildhead](https://github.com/corigne/guildhead) - Started as a simple discord bot for adding rich embeds to accompany items/quests linked in discord synced WoW guild chat and has evolved into a multi-purpose WoW guild bot over several ADHD fueled all-nighters.
+- [swank.nvim](https://github.com/corigne/swank.nvim) - a neovim native swank client, because I didn't want to full-commit to a proper SWANK connector, later worked on contributions to [sextant](https://github.com/parenworks/sextant) which essentially is a SWANKlike with a proper LSP protocol.
+- Learning and Contributing to OSS [emulation](https://github.com/corigne/melonDS-android), [radio drivers](https://github.com/corigne/lneto) - I'm really sorry about this one I suck at this, [and](https://github.com/corigne/DualCPY-Linux) other junk.
 
 My relevant professional experience can be found on my [LinkedIn](https://www.linkedin.com/in/nathan-jodoin-2076a049)
 
